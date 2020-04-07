@@ -76,6 +76,7 @@ body{
     background-color: #eeffee;
     transition: box-shadow .2s ease-out;
     position: relative;
+    cursor: none;
 }
 
 .menu .icons .img img{
